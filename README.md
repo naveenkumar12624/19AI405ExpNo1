@@ -42,8 +42,6 @@ The Vacuum Cleaner Agent is a Python class that simulates the behavior of a basi
 ### PROGRAM:
 ```py
 Developing AI Agent with PEAS Description
-Developed by: Varsha Ajith
-RegisterNumber: 212221230118
 
 class VacuumCleanerAgent:
     def __init__(self):
